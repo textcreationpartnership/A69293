@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kynges most royall maiestie being enfourmed ...</title>
+            <title>Proclamations. 1538-11-16</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1538</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69293</idno>
+            <idno type="STC">STC 7790</idno>
+            <idno type="STC">ESTC S108885</idno>
+            <idno type="EEBO-CITATION">99844537</idno>
+            <idno type="PROQUEST">99844537</idno>
+            <idno type="VID">9360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:14, 1483:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kynges most royall maiestie being enfourmed ...</title>
+                  <title>Proclamations. 1538-11-16</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>Tho. Berthelet. regius impressor excudebat. Cum privilegio,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1538]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Prohibiting unlicensed importation and printing of books, requiring observance of church ceremonies, removing St. Thomas à Becket from the calendar, etc.--STC.</note>
+                  <note>First leaf only filmed on reel 10.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Appears at reels 10 and 1483 (Society of Antiquaries copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:9360:1"/>
+            <!-- PDF PAGE 17 -->
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE KYNGE<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>  
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>med, that ſondry contentions and ſinyſter opinyons, haue by wronge teachynge and naughtye printed b<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="7+ letters">
+                  <desc>〈7… letters〉</desc>
+               </gap>ed and growen within this his realme of Englande, and other his do<g ref="char:EOLhyphen"/>minions amonges his louing ſubiectes of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontrairie to the true faithe, reuerence and due obſeruation of ſuch ſacra<g ref="char:EOLhyphen"/>mentes, ſacramentalles, laudable rites and ceremonies,  <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> haue ben vſed and accuſtomed within the churche of Englande<g ref="char:punc">▪</g> wherof his highnes is iuſtly and laufully ſouerayne <unclear>thuſ</unclear> and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>th  immedtately vnder Chriſt, eſteming alſo that by occaſion of ſon<g ref="char:EOLhyphen"/>dry printed bookes, in the englyſhe tonge that be brought<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e parties and by ſuche lyke bokes as haue bene prynted within this his realme ſet forth with priuilege<g ref="char:punc">▪</g> conteynynge annotation<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <unclear>and</unclear> additions in the margin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, prologes, and calenders imagined and inuen<g ref="char:EOLhyphen"/>ted aſwell by the makers, deuyſers, and printers of the ſame bokes as by ſondry ſtraunge perſones called Anabaptiſtes and ſacramentaries, whiche be lately commen into this realme, where ſome of them do remayne priuely vnknowen, and by ſomme his highnes ſubiectes, vſynge ſome ſuperſtitiouſe ſpeches and raſhe wordes of erronyouſe matters, and fantaſticall opinions, bothe in their preachinges and familyar co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>munications, wherby dyuers and many of his louynge ſymple ſubiectes, haue ben enduced and encouraged, arrogantly and ſuperſtitiouſely, to argue and diſpute in open places, tauernes, and alehouſes, not onely vppon the holy Sacrament of Baptiſme, but alſo vppon the mooſte bleſſed ſacrament of the Aultar, and further to breke contempne and deſpiſe of theyr owne priuate wylles and appetites, other holy ſacramen<g ref="char:EOLhyphen"/>tes, laudable rites and ceremonies, heretofore vſed and accuſtomed in his graces realme and churche of Englande, not only to the great ſclan<g ref="char:EOLhyphen"/>der of ſondry the kynges true ſimple and vnlerned ſubiectes and other, but alſo to the reproche and vituperation of this ſayd hole realme and churche, to his gracis highe diſcontentation and diſpleaſure, with daunger of encreaſe of the ſayde enormities and abuſes, oneles his high<g ref="char:EOLhyphen"/>nes ſhulde ſpedily refourme and redreſſe the ſame: whervpon his maieſtie moſte prudently ponderinge and conſideryng the greatte cure and charge, whiche it hath pleaſed almyghty god of his infinite goodnes to commytte to his maieſtie, ouer all the congregation of the ſayd chur<g ref="char:EOLhyphen"/>che of Englande, And aboue all thynges erneſtly wyllyng and deſyring to auaunce and ſet forth the holy worde of god, to his dinine honour and glorie, and to conſerue his ſaid realme and churche, committed to his charge, in peace, vnitie, reſt, and tranquillitie clere and voyde from all wycked errours erronyouſe opynyons and dyſſention, Dothe therfore ſtraitly charge and commande by this his preſent proclamation, as well all and ſingulet his ſubiectes, of what degree or qualitie ſo euer they be, as all other what ſo euer reſpantes or inhabitauntes within this his realme, or within any his gracis dominions, that from hensforth they and euery of them for his part, ſhall obey kepe and obſetue all and ſynguler ſuche articles as hereafter folowe, vpon the peynes and penalties conteyned and ſpecified in the ſame.</p>
+            <p>
+               <hi>FYRSTE FOR</hi> expellynge and aduoydinge the occaſion of the ſaid errours and ſeditiouſe opinions, by reaſon of bokes imprinted in the englyſhe tonge, brought and tranſported from outward parties, The kynges moſt royall maieſtie ſtraytely chargeth, and commaundeth, that no perſon or perſons, of what eſtate degree or condition ſo euer he be, ſhall from hensforth (without his maieſties ſpeciall licence) tranſport or bringe from outwarde parties, into this his realme of England, or any other his gracis dominions, any maner bokes printed in the englyſhe tonge, nor ſell, gyue, vtter, or publiſhe any ſuche bokes from hensforthe to be broughte into this tealme, or into any his highnes domymons, vpon the peynes that the offendours in that article ſhall nat onely incurre and runne into his gracis moſte high diſpleaſure and indignation, but alſo ſhall loſe and forfaite vnto his maieſtie, all his or theyr goodes and cattalles, and haue empriſonment at his gracis wyll.</p>
+            <p>
+               <hi>ITEM</hi> that no perſone or perſons in this realme, ſhall from hensforth print any boke in the englyſhe tonge, onles vpon examination made by ſome of his gracis priuie counſayle, or other ſuche as his highnes ſhall appoynte, they ſhall haue lycence ſo to do, and yet ſo hauynge, not to put theſe wordes <hi>Cum priuilegio regali,</hi> without addyng <hi>ad imprimendum ſolum,</hi> and that the hole copie, or els at the leaſt theffect of his licence and priuilege be therwith printed, and playnely declared and expreſſed in the Englyſhe tonge vnderneth them: Nor from henſeforth ſhall printe or bryng into this his realme any bokes of diuine ſcripture in the engliſhe tonge, with any annotations in the matgyn, or any prologe or additi<g ref="char:EOLhyphen"/>ons in the calender or table, excepte the ſame be firſte viwed, examyned, and allowed by the kynges highnes, or ſuche of his maieſties coun<g ref="char:EOLhyphen"/>ſayle, or other, as it ſhall pleaſe his grace to aſſigne therto, but onely the playne ſentence and texte, with a table or repertorte, inſtructynge the reader to fynde redely the chapiters conteyned in the ſayd boke, and theffectes therof. Nor ſhall from henſeforthe prynte any boke of tranſla<g ref="char:EOLhyphen"/>tions in the englyſhe tonge, oneles the playne name of the tranſlatour therof be conteyned in the ſaide boke, or elles that the prynter wyll an<g ref="char:EOLhyphen"/>ſwere forthe ſame as for his owne priuie dede and acte, and otherwiſe to make the tranſlatour the printer and the ſetter forthe of the ſame, to ſuffre puniſhement, and make a fyne at the kynges wyll and pleaſure.</p>
+            <p>
+               <hi>ITEM</hi> that no perſone or perſons, vſying the occupation of pryntying of bokes in this realme, ſhall prynt, vtter, ſel, or cauſe to be publiſhed any bokes of ſcripture in the engliſhe tonge, vntyl ſuche time as the ſame bokes be fyrſt viewed, eramyned, and admitted by the kynges high<g ref="char:EOLhyphen"/>neſſe, or one of his prime counſayle, or one byſhoppe of this realme, whoſe name alſo his grace wylleth ſhall be therin expreſſed, vpon peyne not onely to incurre and runne into the kynges moſte high diſpleaſure and indignation, but alſo to loſe and forfayte al theyr goodes and ca<g ref="char:EOLhyphen"/>talles, and ſuffre empriſonement at his gracis wyll and pleaſure.</p>
+            <p>
+               <hi>ITEM</hi> for as moche as dyuerſe and ſondrye ſtraungers of the ſecte and fals opinion of the Anabaptiſtes and ſacramentaries, bene lately comen into this realme, where they lurke ſecretly in dyuers corners and places, mynding craftely and ſubtely to prouoke and ſtire the kynges louynge ſubiectes to theyr errours and opinions, wherof parce of theym by the great trauayle and diligence of the kynges hyghnes and his counſayle, be apprchended and taken, The kynges moſter or all maieſtie declareth and notifieth to all his louynge ſubiectes, that his high<g ref="char:EOLhyphen"/>nes lyke a godly and a catholyke prince abhorteth and deteſteth the ſame ſectes and theyr wycked and abhomynable errours and opinions.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
